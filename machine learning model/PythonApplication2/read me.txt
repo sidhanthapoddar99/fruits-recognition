@@ -1,0 +1,6 @@
+to train new data set delete files from 
+tensorboard logs
+bottleneck data
+retrained graph
+
+dont delete any thing from model
